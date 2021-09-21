@@ -1,3 +1,9 @@
+# What does this app do?
+This is a live Group chating app based on react.
+
+## How did I emplement it.
+I used Firebase for login authentication and Chatengine for the chating backend.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
